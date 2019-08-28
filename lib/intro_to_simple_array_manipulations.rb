@@ -7,4 +7,8 @@ end
 def using_pop(array)
   array.pop
 end
-def pop
+def pop_witb_args(array, number)
+  array.pop(number)
+end
+def using_shift(array)
+  
