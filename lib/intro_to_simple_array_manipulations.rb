@@ -1,15 +1,15 @@
 def using_push(array, string)
   array.push(string)
-end
+END
 def using_unshift(array, string)
-  arrat.unshift(string)
-end
+  array.unshift(string)
+END
 def using_pop(array)
   array.pop
-end
+END
 def pop_witb_args(array, number)
   array.pop(number)
-end
+END
 def using_shift(array)
   array.shift
 END
