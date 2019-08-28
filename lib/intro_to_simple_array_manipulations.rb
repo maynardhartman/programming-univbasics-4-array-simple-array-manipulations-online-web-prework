@@ -12,5 +12,5 @@ def pop_witb_args(array, number)
 end
 def using_shift(array)
   array.shift
-
+END
   
