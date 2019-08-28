@@ -13,3 +13,7 @@ END
 def using_shift(array)
   array.shift
 END
+def shift_with_args(array)
+  array.shift(2)
+END
+using_concat
