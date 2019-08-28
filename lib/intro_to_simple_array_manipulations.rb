@@ -25,4 +25,10 @@ END
 def using_uniq(array)
   array.uniq
 END
-def using_flatten
+def using_flatten(array)
+  array.flatten
+END
+def using_delete(array, string)
+  arrray.delete(string)
+END
+def using_delete_at
